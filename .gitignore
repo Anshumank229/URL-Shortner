@@ -1,0 +1,30 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# Docker
+*.pid
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Environment
+.env.local
+.env.production
